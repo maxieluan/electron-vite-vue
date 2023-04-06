@@ -21,13 +21,7 @@
 
 ## Quick Start
 
-```sh
-npm create electron-vite
-```
-
-<!-- [![quick-start](https://asciinema.org/a/483731.svg)](https://asciinema.org/a/483731) -->
-
-![electron-vite-vue.gif](/public/electron-vite-vue.gif)
+In github, click the "Use this template" button. 
 
 ## Debug
 
