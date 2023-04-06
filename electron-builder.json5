@@ -34,5 +34,14 @@
     "perMachine": false,
     "allowToChangeInstallationDirectory": true,
     "deleteAppDataOnUninstall": false
+  },
+  "linux": {
+    "icon": "public/favicon.png",
+    "target": [
+      "deb",
+      "zip",
+      "tar.gz"
+    ],
+    "artifactName": "${productName}_${version}.${ext}"
   }
 }
